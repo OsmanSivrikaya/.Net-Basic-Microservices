@@ -46,3 +46,6 @@ C:\Users\mav228\Desktop\Microservices\Services\Catalog\FreeCourse.Services.Catal
 C:\Users\mav228\Desktop\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\mav228\Desktop\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\mav228\Desktop\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\mav228\Desktop\Microservices\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net8.0\FreeCourse.Services.Catalog.sourcelink.json
+C:\Users\mav228\Desktop\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net8.0\FreeCourse.Shared.dll
+C:\Users\mav228\Desktop\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net8.0\FreeCourse.Shared.pdb

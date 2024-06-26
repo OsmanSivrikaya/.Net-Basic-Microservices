@@ -9,3 +9,4 @@ C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\obj\Debug\net8.0\
 C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\obj\Debug\net8.0\refint\FreeCourse.Shared.dll
 C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.pdb
 C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\obj\Debug\net8.0\ref\FreeCourse.Shared.dll
+C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.sourcelink.json

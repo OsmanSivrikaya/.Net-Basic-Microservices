@@ -8,7 +8,7 @@ namespace FreeCourse.Shared.Dtos
     /// Genel yanıt veri transfer nesnesi.
     /// </summary>
     /// <typeparam name="T">Dönen veri türü.</typeparam>
-    public class ResponseDto<T>
+    public class Response<T>
     {
         /// <summary>
         /// Yanıt verisi.
@@ -38,16 +38,16 @@ namespace FreeCourse.Shared.Dtos
         /// <param name="data">Dönen veri.</param>
         /// <param name="statusCode">HTTP durum kodu.</param>
         /// <returns>Başarılı yanıt DTO'su.</returns>
-        public static ResponseDto<T> Success(T data, int statusCode) => 
-            new ResponseDto<T> { Data = data, StatusCode = statusCode, IsSuccessful = true };
+        public static Response<T> Success(T data, int statusCode) => 
+            new Response<T> { Data = data, StatusCode = statusCode, IsSuccessful = true };
 
         /// <summary>
         /// Verisiz başarılı bir yanıt oluşturur.
         /// </summary>
         /// <param name="statusCode">HTTP durum kodu.</param>
         /// <returns>Başarılı yanıt DTO'su.</returns>
-        public static ResponseDto<T> Success(int statusCode) => 
-            new ResponseDto<T> { Data = default(T), StatusCode = statusCode, IsSuccessful = true };
+        public static Response<T> Success(int statusCode) => 
+            new Response<T> { Data = default(T), StatusCode = statusCode, IsSuccessful = true };
 
         /// <summary>
         /// Hatalı bir yanıt oluşturur.
@@ -55,8 +55,8 @@ namespace FreeCourse.Shared.Dtos
         /// <param name="errors">Hata mesajları listesi.</param>
         /// <param name="statusCode">HTTP durum kodu.</param>
         /// <returns>Hatalı yanıt DTO'su.</returns>
-        public static ResponseDto<T> Fail(List<string> errors, int statusCode) =>
-            new ResponseDto<T>
+        public static Response<T> Fail(List<string> errors, int statusCode) =>
+            new Response<T>
             {
                 Errors = errors,
                 StatusCode = statusCode,
@@ -69,8 +69,8 @@ namespace FreeCourse.Shared.Dtos
         /// <param name="error">Hata mesajı.</param>
         /// <param name="statusCode">HTTP durum kodu.</param>
         /// <returns>Hatalı yanıt DTO'su.</returns>
-        public static ResponseDto<T> Fail(string error, int statusCode) =>
-            new ResponseDto<T>
+        public static Response<T> Fail(string error, int statusCode) =>
+            new Response<T>
             {
                 Errors = new List<string>(){error},
                 StatusCode = statusCode,

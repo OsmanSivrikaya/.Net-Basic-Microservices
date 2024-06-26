@@ -1,3 +1,5 @@
+## Geliştirme aşamasında ❗❗
+
 # Online Kurs Satış Platformu Microservice Mimarisi ile .NET 8
 
 Bu proje, .NET 8 kullanarak geliştirdiğim bir online kurs satış platformudur. Bu projede, farklı microservice'leri dockerize edip, çeşitli veritabanları ve mesaj kuyruk sistemleri ile entegre ederek modern bir microservice mimarisi oluşturulmuştur.
