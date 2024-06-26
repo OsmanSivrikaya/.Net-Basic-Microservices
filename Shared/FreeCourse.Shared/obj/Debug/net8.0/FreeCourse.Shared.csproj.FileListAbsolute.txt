@@ -1,0 +1,11 @@
+C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.AssemblyInfoInputs.cache
+C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.AssemblyInfo.cs
+C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\bin\Debug\net8.0\FreeCourse.Shared.deps.json
+C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\bin\Debug\net8.0\FreeCourse.Shared.dll
+C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\bin\Debug\net8.0\FreeCourse.Shared.pdb
+C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.dll
+C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\obj\Debug\net8.0\refint\FreeCourse.Shared.dll
+C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.pdb
+C:\Users\mav228\Desktop\Microservices\Shared\FreeCourse.Shared\obj\Debug\net8.0\ref\FreeCourse.Shared.dll
