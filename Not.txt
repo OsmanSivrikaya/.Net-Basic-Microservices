@@ -1,0 +1,2 @@
+Dockerda mongodb container ayağa kaldırılıcak mongo db bu porttan ayaklanacak : //localhost:27017
+Dockerda portainer container ayağa kaldırılıcak
